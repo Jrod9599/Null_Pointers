@@ -35,6 +35,7 @@ public class Main {
         System.out.println("Skills:\t\t" + skill1 + ", " + skill2 + ", " + skill3);
         System.out.println("Work Experience:\n\t\t\t" + work);
         System.out.println("--------------------------------------------------------");
+        System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
 
     }
 }
